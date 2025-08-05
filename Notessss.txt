@@ -1,0 +1,22 @@
+app
+
+Routes using file system
+error.js
+layout.js
+page.js
+loading.js
+not-found.js
+
+
+dynamic routes
+
+use client and use server
+
+server actions storing data in db without apis
+
+useformStatus();
+useFormState();
+redirect to path
+params for page id  // usepathname or client side to get path
+revalidaepath to revalidate cache
+
